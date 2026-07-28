@@ -8,3 +8,4 @@ pdfplumber
 python-docx
 nltk
 xgboost
+sentence-transformers
